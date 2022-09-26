@@ -6,6 +6,8 @@ public class Welcome {
 		System.out.println("Welcome to GIT Demo");
 		System.out.println("Hi Hello");
 		System.out.println("Hi Der");
+		System.out.println("Hi World");
+		System.out.println("Hello World");
 
 	}
 
